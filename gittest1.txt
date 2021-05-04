@@ -3,3 +3,6 @@ using git bash
 
 
 added ---as sec commot
+
+created new branch---crazycolors
+and added these 2 lines :)
